@@ -10,7 +10,7 @@ Weather details include:<br />
 -Minimum Temperature for the day <br />
 -Windspeed <br /> 
 -general description (i.e. Clear skies) <br />
-
+<br />
 SMS texting is done through Twilio, while the api itself can hosted on any site (i.e. Pythonanywhere)<br />
 
 Weather data is obtained from OpenWeatherMap and their free API <br />
